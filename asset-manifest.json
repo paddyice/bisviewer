@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bisviewer/static/css/main.b0a92eb1.chunk.css",
+    "main.js": "/bisviewer/static/js/main.70164e0a.chunk.js",
+    "main.js.map": "/bisviewer/static/js/main.70164e0a.chunk.js.map",
+    "runtime-main.js": "/bisviewer/static/js/runtime-main.b11139f4.js",
+    "runtime-main.js.map": "/bisviewer/static/js/runtime-main.b11139f4.js.map",
+    "static/js/2.9da8d80a.chunk.js": "/bisviewer/static/js/2.9da8d80a.chunk.js",
+    "static/js/2.9da8d80a.chunk.js.map": "/bisviewer/static/js/2.9da8d80a.chunk.js.map",
+    "index.html": "/bisviewer/index.html",
+    "precache-manifest.f60a8c24221098842455ac2aeeb57780.js": "/bisviewer/precache-manifest.f60a8c24221098842455ac2aeeb57780.js",
+    "service-worker.js": "/bisviewer/service-worker.js",
+    "static/css/main.b0a92eb1.chunk.css.map": "/bisviewer/static/css/main.b0a92eb1.chunk.css.map",
+    "static/js/2.9da8d80a.chunk.js.LICENSE.txt": "/bisviewer/static/js/2.9da8d80a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b11139f4.js",
+    "static/js/2.9da8d80a.chunk.js",
+    "static/css/main.b0a92eb1.chunk.css",
+    "static/js/main.70164e0a.chunk.js"
+  ]
+}
